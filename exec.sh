@@ -1,0 +1,1 @@
+docker exec -it project-app_php_project-app_1 bash
